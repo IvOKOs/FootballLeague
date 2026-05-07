@@ -22,3 +22,4 @@ appsettings.json
 2. Run the application.
 
 Database migrations will be applied automatically on startup.
+Default teams will also be seeded automatically.
