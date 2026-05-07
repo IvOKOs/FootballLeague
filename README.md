@@ -16,7 +16,7 @@ A simple ASP.NET Core Web API for managing football teams, matches, and league r
 1. Configure the connection string in:
 
 ```json
-appsettings.json
+appsettings.Development.json
 ```
 
 2. Run the application.
